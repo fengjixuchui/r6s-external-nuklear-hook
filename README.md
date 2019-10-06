@@ -11,7 +11,7 @@ Link to kdmapper for winver: 1803-1903.
 https://github.com/alxbrn/kdmapper-1803-1903
 
 ## Gui Example
-Application comes with a couple examples of how to do a cool gui: login panel & gui
+Application comes with a couple examples of how to do a cool gui.
 <div align="center">
   <img width="258" src="https://i.gyazo.com/aecea264cba5c72d05f25976a05ffb9a.png" alt="logo">
 </div>
