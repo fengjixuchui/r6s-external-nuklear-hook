@@ -12,7 +12,7 @@ Link to kdmapper for winver: 1803-1903.
 https://github.com/alxbrn/kdmapper-1803-1903
 
 <div align="center">
-  <h2>Original Author: not-frankoo all credits & rep should go to him</h2>
+  <h2>Original Author: not-frankoo</h2>
 </div>
 
 ## Gui Example
