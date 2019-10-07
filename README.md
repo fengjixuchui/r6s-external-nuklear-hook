@@ -11,6 +11,10 @@ Driver is made for winver: 1809 (not tested on other winvers).
 Link to kdmapper for winver: 1803-1903. 
 https://github.com/alxbrn/kdmapper-1803-1903
 
+<div align="center">
+  <h2>Original Author: not-frankoo all credits & rep should go to him</h2>
+</div>
+
 ## Gui Example
 Application comes with a couple examples of how to do a cool gui.
 <div align="center">
@@ -30,7 +34,3 @@ Cheat is currently undetected on BE, cheat has not been tested on EAC.
 
 ## Contact
 Use it for whatever you want. Feel free to add me on discord if help is needed (magnum dong#0481).
-
-<div align="center">
-  <h2>Original Author: not-frankoo all credits & rep should go to him</h2>
-</div>
