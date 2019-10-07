@@ -1,7 +1,6 @@
 <div align="center">
   <img width="258" src="https://i.redd.it/lncarhwqwxg11.png" alt="logo">
   <h1>r6s external nuklear hook</h1>
-  <h2>Original Author: not-frankoo all credits & rep should go to him</h2>
 </div>
 
 
@@ -31,3 +30,7 @@ Cheat is currently undetected on BE, cheat has not been tested on EAC.
 
 ## Contact
 Use it for whatever you want. Feel free to add me on discord if help is needed (magnum dong#0481).
+
+<div align="center">
+  <h2>Original Author: not-frankoo all credits & rep should go to him</h2>
+</div>
