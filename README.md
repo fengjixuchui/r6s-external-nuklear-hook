@@ -11,10 +11,6 @@ Driver is made for winver: 1809 (not tested on other winvers).
 Link to kdmapper for winver: 1803-1903. 
 https://github.com/alxbrn/kdmapper-1803-1903
 
-<div align="center">
-  <h2>Original Author: not-frankoo</h2>
-</div>
-
 ## Gui Example
 Application comes with a couple examples of how to do a cool gui.
 <div align="center">
